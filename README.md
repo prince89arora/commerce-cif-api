@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/adobe/commerce-cif-api/branch/master/graph/badge.svg)](https://codecov.io/gh/adobe/commerce-cif-api)
 [![Swagger](https://img.shields.io/badge/Swagger-CIF%20API-brightgreen.svg)](http://opensource.adobe.com/commerce-cif-api/)
 [![Maven Central](https://img.shields.io/maven-central/v/com.adobe.commerce.cif/api-model.svg)](https://search.maven.org/search?q=g:com.adobe.commerce.cif%20AND%20a:api-model)
-[![npm (scoped)](https://img.shields.io/npm/v/@adobe/commerce-cif-model.svg)](https://www.npmjs.com/package/@adobe/commerce-cif-model)
+[![npm (scoped)](https://img.shields.io/npm/v/@adobe/commerce-cif-model.svg)](https://www.npmjs.com/package/@adobe/commerce-cif-model) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/commerce-cif-api.svg)](https://greenkeeper.io/)
 
 # Adobe CIF Cloud API and data model
 
