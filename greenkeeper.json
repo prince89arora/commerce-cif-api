@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ci/package.json",
+        "documentation/tutorial/callback-example/package.json",
+        "src/main/javascript/package.json",
+        "src/main/resources/javascript/package.json"
+      ]
+    }
+  }
+}
